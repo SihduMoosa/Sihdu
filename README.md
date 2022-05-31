@@ -1,4 +1,4 @@
-# Sihdu
+# Magic Code
 
 git clone https://github.com/SihduMoosa/Sihdu
 
